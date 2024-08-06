@@ -2,14 +2,14 @@
  
 Class: Person
 
-Attributes:
+1.Attributes:
 
-Name: John Doe
-Age: 30
-Gender: Male
-Height: 1.7 meters
-Weight: 70 kg
+*Name: John Doe  
+*Age: 30
+*Gender: Male
+*Height: 1.7 meters
+*Weight: 70 kg
 
-Methods:
-eat(){}
-walk(){}
+2.Methods:
+*eat(){}
+*walk(){}
